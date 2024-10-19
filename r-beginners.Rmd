@@ -1,0 +1,56 @@
+---
+title: "R for Beginners"
+description: "This course provides a solid foundation in R programming for beginners"
+output: distill::distill_article
+---
+
+<style>
+h1 {
+  font-size: 2em; /* Reduce the size of the main title (Adjust as needed) */
+}
+</style>
+
+## R for Beginners
+**Price**: $20
+**Duration**: 4 weeks
+**Level**: Beginner
+
+## Course Overview
+This course provides a solid foundation in R programming for beginners. Perfect for those with no prior coding experience, you'll learn the essential concepts and skills to start analyzing and visualizing data.
+
+## What You Will Learn:
+
+- Introduction to R
+
+Overview of R and its applications in data analysis.
+
+- Basic R Syntax
+
+Understanding data types, variables, and control structures.
+
+- Data Manipulation
+
+Using R packages like dplyr to clean and manipulate data.
+
+- Data Visualization
+
+Creating visualizations with ggplot2 and basic plotting functions.
+
+- Working with Data Frames
+
+Techniques for importing, exporting, and managing data sets.
+
+- Fundamentals of Statistics
+
+Basic statistical concepts and how to apply them in R.
+
+- Prerequisites
+
+None. No prior coding experience required.
+
+## How to Enroll:
+
+To enroll in this course, please [contact us](contact.html) with your details.
+
+---
+[Back to Courses](courses.html)

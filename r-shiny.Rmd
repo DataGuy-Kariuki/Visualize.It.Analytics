@@ -1,0 +1,81 @@
+---
+title: "R Shiny for Beginners"
+description: "Learn how to build interactive web applications using R and Shiny."
+output: distill::distill_article
+---
+
+## R Shiny for Beginners
+
+**Price**: $40  
+**Duration**: 4 weeks  
+**Level**: Beginner to Intermediate
+
+## Course Overview
+
+This course teaches you how to build interactive web applications using the R Shiny package. Whether you are a data analyst or data scientist looking to visualize data or a developer interested in creating web dashboards, this course will provide the necessary skills.
+
+## What You Will Learn:
+
+- Introduction to R Shiny
+
+Overview of R Shiny and its applications
+Importance of Shiny in data visualization and web applications
+
+- What Are We Going to Build?
+
+Project description and objectives
+Expected outcomes of the course
+
+- Essential Concepts
+
+Overview of Shiny app structure
+Key components: UI and server
+
+- Building a Layout
+
+Creating the user interface
+Using layout functions (e.g., fluidPage, sidebarLayout)
+
+- Input Controls
+
+Overview of different input types (e.g., sliders, text inputs, select boxes)
+How to handle user inputs
+
+- Output Placeholders
+
+Understanding output types (e.g., plots, tables, text)
+How to set up output placeholders in the UI
+
+- Generating Outputs
+
+Rendering outputs with render functions (e.g., renderPlot, renderTable)
+Connecting inputs and outputs
+
+- Basics of Reactivity
+
+Introduction to reactive programming in Shiny
+How reactivity works and why it's essential for Shiny apps
+
+- Writing the Server Function
+
+Structure of the server function
+Connecting the UI to the server logic
+
+- There's More to Shiny Than This
+
+Advanced features (e.g., modules, custom themes)
+Best practices for building scalable Shiny applications
+
+- Course Materials
+
+Additional resources (e.g., documentation, tutorials)
+Access to course materials (slides, code examples)
+
+## Prerequisites
+- Basic knowledge of R programming.
+
+## How to Enroll:
+To enroll in this course, please [contact us](contact.html) with your details.
+
+---
+[Back to Courses](courses.html)

@@ -1,0 +1,15 @@
+---
+title: "Visualize It Analytics"
+description: "About Visualize It Analytics"
+output: distill::distill_article
+---
+
+<style>
+h1 {
+  font-size: 2em; /* Reduce the size of the main title (Adjust as needed) */
+}
+</style>
+
+# Visualize It Analytics
+
+Welcome to Visualize It Analytics! We are a data science and analytics training organisation with a focus on fintech, e-commerce, and edutech sectors. Our mission is to empower learners with the skills needed to excel in data science, machine learning, and product development. We offer courses designed for beginners and intermediate learners, featuring hands-on projects and real-world applications. At Visualize It Analytics, we are dedicated to providing a practical, project-based learning experience that helps our learners advance in their careers.

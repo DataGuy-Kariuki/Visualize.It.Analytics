@@ -1,0 +1,42 @@
+---
+title: "Courses"
+description: "Browse our available courses and enroll today."
+output: distill::distill_article
+---
+
+<style>
+h1 {
+  font-size: 2em; /* Reduce the size of the main title (Adjust as needed) */
+}
+</style>
+
+# Available Courses
+
+## 1. [R for Beginners](r-beginners.html)
+- **Price**: $20
+- This course provides a comprehensive introduction to R programming for beginners.
+- Designed for individuals with no prior coding experience, you'll learn the fundamentals of R,    including data types, control structures, and basic data analysis techniques. 
+- By the end of the course, you'll be equipped with the skills to perform simple data      manipulation  and visualization tasks using R.
+
+
+## 1. [R Shiny Development](r-shiny.html)
+- **Price**: $40
+- Learn how to build interactive web applications using R and Shiny. 
+- This course is designed for data analyst, data scientists and developers looking to create dynamic dashboards and applications.
+
+
+## 2. [Tableau for Data Analysts](tableau-course.html)
+- **Price**:$40
+- Discover how to visualize data effectively using Tableau's powerful features.
+- Learn to create interactive dashboards and insightful reports that facilitate data-driven decision-making.
+
+## 3. [Machine Learning for Business Using R](ml-business.html)
+- **Price**: $60
+- Explore how to apply machine learning techniques to solve real-world business problems using R.
+
+- This course covers essential concepts such as supervised and unsupervised learning, model evaluation, and predictive analytics. 
+- Tailored for business professionals and analysts, you will gain hands-on experience with popular R packages and learn how to leverage data-driven insights for strategic decision-making.
+
+
+
+[Contact us](contact.html) to enroll in a course.

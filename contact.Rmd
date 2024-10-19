@@ -1,0 +1,32 @@
+---
+title: "Contact Us"
+description: "Reach out for more details or to enroll in our courses."
+output: distill::distill_article
+---
+
+<style>
+h1 {
+  font-size: 2em; /* Reduce the size of the main title (Adjust as needed) */
+}
+</style>
+
+# Contact Us
+
+For course enrollment and inquiries, please use the form below or use Whatsapp Business contacts : +254713167064
+
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/xnnqqyjo"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
